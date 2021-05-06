@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @tvdinnerdev 👩‍💻
+- ✨ I'm an artist, art director & gamedev with 7 years experience.
+- 👀 I’m interested in liminal spaces, shaders, juicy interactions, pinball, metal and jazz.
+- 🔎 I’m currently learning more about fluid sims, rigging and physics.
+- 👽 I’m looking to collaborate on unique, stylized games and VR/AR experiences.
+- 📫 How to reach me: tvdinnerdev@gmail.com
