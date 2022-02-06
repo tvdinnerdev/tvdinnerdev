@@ -2,5 +2,5 @@
 - ✨ I'm an artist, art director & gamedev with 8 years experience.
 - 👀 I’m interested in liminal spaces, shaders, pinball, metal and jazz.
 - 🔎 I’m currently learning more about procedural generation, rigging and physics.
-- 👽 I’m looking to collaborate on unique stylized games and VR experiences.
+- 👽 I’m looking to collaborate on games with diverse, creative teams.
 - 📫 How to reach me: tvdinnerdev@gmail.com
