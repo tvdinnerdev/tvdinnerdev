@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tvdinnerdev 👩‍💻
-- ✨ I'm an artist, art director & gamedev with 9 years experience.
+- ✨ I'm an artist, art director & gamedev with 10 years experience.
 - 👀 I’m interested in liminal spaces, shaders, pinball, metal and jazz.
 - 🔎 I’m currently learning more about procedural generation, rigging and physics.
 - 👽 I’m looking to collaborate on games with diverse, creative teams.
